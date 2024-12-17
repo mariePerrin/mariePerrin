@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariePerrin
 - 👀 I’m interested in Life Science, Data Science and STEM in general
 - 🌱 I’m currently learning Data Science and AI techniques
-- 💞️ I’m looking to collaborate on scientific projects mxingb several disciplines
+- 💞️ I’m looking to collaborate on scientific projects mixing several disciplines
 - 📫 You can reach me by e-mail
 - ⚡ Fun fact: You know, I'm something of an artist myself
 
