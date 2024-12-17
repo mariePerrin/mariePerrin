@@ -2,7 +2,7 @@
 - 👀 I’m interested in Life Science, Data Science and STEM in general
 - 🌱 I’m currently learning Data Science and AI techniques
 - 💞️ I’m looking to collaborate on scientific projects mixing several disciplines
-- 📫 You can reach me by e-mail
+- 📫 You can reach me through GitHub
 - ⚡ Fun fact: You know, I'm something of an artist myself
 
 <!---
