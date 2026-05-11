@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science and AI techniques
 - 💞️ I’m looking to collaborate on scientific projects mixing several disciplines
 - 📫 You can reach me through GitHub
-- ⚡ Fun fact: You know, I'm something of an artist myself
+- ⚡ Fun fact: I'm a singer-runner
 
 <!---
 mariePerrin/mariePerrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
